@@ -42,7 +42,7 @@ the R² here is misleadingly high and isn't really the headline result — total
 
 ## files
 
-- `project.Rmd` — full analysis (R, tidyverse/dplyr, broom, car, leaps)
+- `analysis.R` — full analysis (R, tidyverse/dplyr, broom, car, leaps)
 - `diet.csv` — raw NHANES dietary recall data
 - `poster.pdf` — project poster, full resolution
 - `assets/poster.png` — poster image, rendered above
