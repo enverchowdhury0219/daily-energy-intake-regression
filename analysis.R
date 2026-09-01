@@ -1,5 +1,5 @@
 # determinants of daily energy intake in u.s. adults
-# STA302 final project — converted from project.Rmd (knitr::purl style)
+# STA302 final project — converted from project.Rmd
 # full write-up and results: see README.md and poster.pdf
 #
 # libraries used: tidyverse, dplyr, broom, knitr, car, leaps, kableExtra
