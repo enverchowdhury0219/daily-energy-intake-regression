@@ -5,7 +5,7 @@
 # libraries used: tidyverse, dplyr, broom, knitr, car, leaps, kableExtra
 # ------------------------------------------------------------------
 
-# run this script from the repo root so read.csv("diet.csv") resolves correctly
+# make sure to run this script from the repo root so read.csv("diet.csv") resolves correctly
 
 # getting a first look at our dataset
 library(tidyverse)
